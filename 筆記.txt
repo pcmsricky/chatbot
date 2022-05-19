@@ -4,7 +4,8 @@ ngrok.exe http 8000
 
 2017澳門大學校長 趙偉
 
-
+https://nlp.xiaoi.com/# 小i機器人
+username pcmsmo
 
 http://api.qingyunke.com/
 例子
@@ -12,7 +13,6 @@ http://api.qingyunke.com/
 FB否认关闭机器人聊天系统 而是使它们变得更聪明
 Alice Bob 生成式对抗网络
 2017-08-03
-
 
 
 
