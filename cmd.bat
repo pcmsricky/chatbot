@@ -1,0 +1,2 @@
+ngrok config add-authtoken 27jazIu23XBqR34opeYmKdPP9ma_45j9aVSbgCppXRWZy2gvC
+ngrok.exe http 8000

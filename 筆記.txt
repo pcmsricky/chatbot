@@ -14,8 +14,24 @@ FB否认关闭机器人聊天系统 而是使它们变得更聪明
 Alice Bob 生成式对抗网络
 2017-08-03
 
+小冰作詩 - 上載圖片
+https://poem.xiaoice.com/
 
+AI藏頭詩
+https://www.aichpoem.net/
 
 https://my.xiaoice.com/Home/AIBeingList
 小冰, 虛擬親友
 
+
+黄金岁月 - 早期的热情(1956-1974)
+1966年：研究人员强调开发可以解决数学问题的算法。Joseph Weizenbaum于1966年创建了第一个聊天机器人，名为ELIZA。
+1972年：第一个智能人形机器人在日本建造，命名为WABOT-1。//原文出自【易百教程】，商业转载请联系作者获得授权，非商业请保留原文链接：https://www.yiibai.com/artificial-intelligence-tutorial/history-of-artificial-intelligence.html
+
+
+
+
+机器翻译
+信息抽取
+文本分类
+问答系统 
